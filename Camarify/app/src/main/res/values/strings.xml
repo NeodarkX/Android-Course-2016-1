@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camarify</string>
+
+    <string name="take_picture">Tomar foto</string>
+
+    <string name="shoot_video">Grabar video</string>
+</resources>

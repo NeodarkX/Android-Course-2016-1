@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dark Catalog</string>
+
+    <string name="title_activity_splash_screen"></string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_catalog">People Catalog</string>
+    <string name="title_activity_item">Person Info</string>
+</resources>
